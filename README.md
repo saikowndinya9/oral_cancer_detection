@@ -1,1 +1,0 @@
-# oral_cancer_detection
